@@ -10,3 +10,6 @@ router.use("/user", user.routes());
 router.use("/algorithm", algorithm.routes());
 
 module.exports = router;
+
+
+console.log('dsadasdas')
