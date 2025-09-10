@@ -16,4 +16,4 @@ console.log('dsadasdas')
 
 
 
-console.log('dakdndsalksa你好')
+console.log('dakdnds')
