@@ -4,6 +4,8 @@ const app = new Koa();
 const router = require("./router");
 const { koaBody } = require("koa-body");
 
+console.log('jiandande tiaozheng)
+
 // app.use(async (ctx) => {
 //   ctx.body = "Hello World";
 // });
