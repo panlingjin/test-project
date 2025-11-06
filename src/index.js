@@ -14,5 +14,8 @@ app.use(koaBody()).use(router.routes()).use(router.allowedMethods());
 app.listen(3000);
 
 
+console.log('test xiugai')
+
+
 
 console.log('dasdasdas')
